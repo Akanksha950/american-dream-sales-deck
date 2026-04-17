@@ -21,7 +21,7 @@ The core objective was to eliminate "pitch friction."
 - **Data Visualization:** Built a custom CSS "Catchment Map" to visually represent the 40M+ person reach within the NYC/Philly/Boston corridor.
 
 ## 🛠️ Setup Instructions
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/american-dream-sales-deck.git`
+1. Clone the repository: `https://github.com/Akanksha950/american-dream-sales-deck.git`
 2. Open `index.html` in any modern browser (Chrome/Edge/Safari).
 3. No build steps or dependencies required (Self-contained for performance).
 
