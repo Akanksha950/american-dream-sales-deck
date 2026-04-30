@@ -2,7 +2,7 @@
 
 A fully interactive, browser-based Digideck-format commercial sales presentation for American Dream, East Rutherford, NJ — the largest mall in the Western Hemisphere.
 
-**Live URL:** [Deploy to GitHub Pages / Vercel / Netlify — see below]
+**Live URL:** https://akanksha950.github.io/american-dream-sales-deck/
 
 ---
 
